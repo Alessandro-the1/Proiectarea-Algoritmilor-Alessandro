@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// salut
+
 int main() {
     int n, v[100];
 
